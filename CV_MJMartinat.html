@@ -1,0 +1,175 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV — Marie-Jeanne Martinat</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Libre+Franklin:wght@300;400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+@media print{body{font-size:10pt}@page{margin:1.2cm;size:A4}}
+*{box-sizing:border-box;margin:0;padding:0}
+:root{--ink:#1c1c28;--accent:#b34a2d;--accent2:#1f5c3f;--muted:#7a7570;--line:#ddd7cc;--bg:#faf8f4}
+body{font-family:'Libre Franklin',sans-serif;color:var(--ink);background:var(--bg);line-height:1.65;max-width:900px;margin:0 auto;padding:3rem 2.5rem}
+h1{font-family:'Cormorant Garamond',serif;font-size:2.6rem;font-weight:700;letter-spacing:.5px;margin-bottom:.2rem}
+h1 span{color:var(--accent)}
+.tagline{font-size:1rem;color:var(--muted);font-weight:300;margin-bottom:1.5rem;font-style:italic}
+.contact-bar{display:flex;flex-wrap:wrap;gap:1.2rem;font-size:.82rem;color:var(--ink);margin-bottom:2.5rem;padding-bottom:1.5rem;border-bottom:2px solid var(--ink)}
+.contact-bar a{color:var(--accent);text-decoration:none}
+
+h2{font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:700;text-transform:uppercase;letter-spacing:3px;color:var(--accent);margin:2.2rem 0 1rem;padding-bottom:.4rem;border-bottom:1px solid var(--line)}
+h3{font-size:.95rem;font-weight:600;margin-bottom:.15rem}
+h4{font-size:.85rem;font-weight:500;color:var(--muted);margin-bottom:.4rem}
+
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem 3rem}
+.three-col{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem 2rem}
+@media(max-width:600px){.two-col,.three-col{grid-template-columns:1fr}}
+
+.exp{margin-bottom:1.5rem}
+.exp .date{font-size:.75rem;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent);font-weight:600}
+.exp p{font-size:.88rem;color:#444;margin-top:.3rem}
+
+.skill-block{margin-bottom:1.2rem}
+.skill-block h3{font-size:.88rem;color:var(--accent2);margin-bottom:.3rem}
+.skill-block p{font-size:.83rem;color:#555}
+.tools{font-family:'JetBrains Mono',monospace;font-size:.72rem;color:var(--muted);margin-top:.2rem}
+
+.risk-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.8rem}
+@media(max-width:600px){.risk-grid{grid-template-columns:1fr}}
+.risk-item{background:#fff;border-left:3px solid var(--accent);padding:.6rem .8rem;border-radius:0 4px 4px 0}
+.risk-item strong{font-size:.82rem;display:block;margin-bottom:.15rem}
+.risk-item span{font-size:.75rem;color:var(--muted)}
+
+.form-item{margin-bottom:.7rem}
+.form-item .date{font-size:.72rem;color:var(--accent);font-weight:600}
+.form-item h3{font-size:.88rem}
+.form-item h4{font-size:.78rem;color:var(--muted);font-weight:400;margin:0}
+
+.lang-bar{display:flex;gap:2rem;font-size:.88rem}
+.lang-bar span{color:var(--muted);font-size:.78rem}
+</style>
+</head>
+<body>
+
+<h1>Marie-Jeanne <span>Martinat</span></h1>
+<p class="tagline">Ingénieure en Géomatique et Programmation — Innovation au service des territoires</p>
+
+<div class="contact-bar">
+  <span>📍 Les Combettes, 18370 Saint-Saturnin</span>
+  <span>📞 06.44.83.83.17</span>
+  <span>📧 <a href="mailto:martinat.mj@gmail.com">martinat.mj@gmail.com</a></span>
+  <span>🔗 <a href="https://www.linkedin.com/in/mariejeanne-martinat-b58577215">LinkedIn</a></span>
+  <span>🌐 <a href="https://mjmartinat-dev.github.io/Portefolio/">Portfolio</a></span>
+</div>
+
+<h2>Compétences techniques</h2>
+<div class="two-col">
+  <div class="skill-block">
+    <h3>🗺️ Géomatique & SIG</h3>
+    <p>Administration PostgreSQL/PostGIS, cartes interactives et flux WMS, analyse spatiale, traitement de données massives, formation utilisateurs.</p>
+    <div class="tools">QGIS · PostGIS · GeoServer · Leaflet · FME · ArcGIS</div>
+  </div>
+  <div class="skill-block">
+    <h3>⚙️ Programmation & automatisation</h3>
+    <p>Applications web interactives (RShiny/Golem), pipelines de données, scripts d'automatisation, développement SQL avancé (PL/pgSQL).</p>
+    <div class="tools">R/RShiny · Python · SQL · HTML/CSS/JS · Git · VS Code</div>
+  </div>
+  <div class="skill-block">
+    <h3>🎨 Graphisme & visualisation</h3>
+    <p>DAO, retouche photo, impression grand format, cartographies thématiques, photogrammétrie et modélisation 3D, posters scientifiques.</p>
+    <div class="tools">Illustrator · Photoshop · SketchUp · D3.js</div>
+  </div>
+  <div class="skill-block">
+    <h3>📋 Gestion de projet</h3>
+    <p>Conception technique, développement et implémentation, assurance qualité, veille technologique, valorisation des résultats, documentation open source.</p>
+    <div class="tools">Teams · Resana · BNum · Ariane · GitLab CI</div>
+  </div>
+</div>
+
+<h2>Expertise transversale — Risques naturels</h2>
+<div class="risk-grid">
+  <div class="risk-item"><strong>🔥 Feux de forêt</strong><span>OLD50m, Code forestier L134-9, débroussaillement, massifs sensibles</span></div>
+  <div class="risk-item"><strong>💧 Sécheresse</strong><span>Hub'eau, piézométrie, hydrologie, seuils d'alerte, bulletins opérationnels</span></div>
+  <div class="risk-item"><strong>🌊 Inondations</strong><span>PPRN, priorisation des plans de prévention, cartographie d'aléas</span></div>
+  <div class="risk-item"><strong>🏔️ Séismes</strong><span>ASTER'X, mouvements de terrain, référentiels Géorisques</span></div>
+  <div class="risk-item"><strong>🌪️ Tornades & tempêtes</strong><span>Vulnérabilité territoriale, données multi-sources, événements extrêmes</span></div>
+  <div class="risk-item"><strong>🦁 Biodiversité</strong><span>Suivi faune sauvage (Lynx, Tétras-lyre), atlas mellifères, espaces protégés</span></div>
+</div>
+
+<h2>Expériences professionnelles</h2>
+
+<div class="exp">
+  <div class="date">2023 – 2025</div>
+  <h3>Ingénieure géomaticienne-programmeuse</h3>
+  <h4>DDT de la Drôme — Valence (26)</h4>
+  <p>Co-création de l'outil OLD50m (PostgreSQL/PostGIS/Python) — pipeline complet de calcul des obligations de débroussaillement, en transfert vers l'IGN pour déploiement national. Création de cartOLD (RShiny/Golem/Leaflet), application web de visualisation interactive. Création du pipeline BSécheresse (R/Hub'eau), bulletin automatisé pour le comité sécheresse départemental.</p>
+</div>
+
+<div class="exp">
+  <div class="date">2022 – 2023</div>
+  <h3>Alternante & vacataire en géomatique</h3>
+  <h4>DDT de la Drôme — Valence (26)</h4>
+  <p>Création d'un observatoire du territoire drômois sous RStudio Shiny. Analyse de données territoriales et production de tableaux de bord interactifs.</p>
+</div>
+
+<div class="exp">
+  <div class="date">2021 – 2022</div>
+  <h3>Stagiaire géomaticien risques naturels</h3>
+  <h4>DREAL Bourgogne-Franche-Comté — Besançon (25)</h4>
+  <p>Réalisation de la méthodologie de priorisation de l'élaboration et révision des PPRN. Mise à jour des cartographies ASTER'X (séismes, mouvements de terrain). Coordination COPIL avec les DDTs.</p>
+</div>
+
+<div class="exp">
+  <div class="date">2018 – 2019</div>
+  <h3>Stagiaire technicien environnemental</h3>
+  <h4>Fédération des Chasseurs de Haute-Savoie — Villy-le-Peloux (01)</h4>
+  <p>Suivi interdépartemental du Lynx par piégeage photographique (projet européen). Suivi du Tétras-lyre en domaine skiable. Cartographies des parcours de suivi et des mises en défens.</p>
+</div>
+
+<div class="exp">
+  <div class="date">2018 – 2019</div>
+  <h3>Stagiaire technicien environnemental</h3>
+  <h4>Start-up Mellisphera — Pau (64)</h4>
+  <p>Création de deux atlas (européen et américain) des plantes mellifères.</p>
+</div>
+
+<div class="exp">
+  <div class="date">2017 – 2018</div>
+  <h3>Chargée de terrain environnemental & animatrice</h3>
+  <h4>Grand Parc Miribel-Jonage (01) / IndreNature — Châteauroux (36)</h4>
+  <p>Inventaires naturalistes, animation nature, suivis de terrain en espaces naturels protégés.</p>
+</div>
+
+<div class="exp">
+  <div class="date">2014 – 2017</div>
+  <h3>Auxiliaire de vie scolaire</h3>
+  <h4>Collège Charles Sénard — Caluire-et-Cuire (69)</h4>
+  <p>Accompagnement d'enfants autistes au sein d'une unité ULIS.</p>
+</div>
+
+<div class="exp">
+  <div class="date">2006 – 2013</div>
+  <h3>Hôtellerie-Restauration</h3>
+  <h4>Divers établissements</h4>
+  <p>D'apprentie à chef de cuisine. Rigueur, gestion du stress, organisation et travail en équipe.</p>
+</div>
+
+<h2>Formations</h2>
+<div class="two-col">
+  <div class="form-item"><h3>Master SIGMA</h3><h4>Université Jean Jaurès II — 2 ans</h4></div>
+  <div class="form-item"><h3>Licence Sciences de la Terre</h3><h4>Université Paul Sabatier III — 1 an</h4></div>
+  <div class="form-item"><h3>BTS Gestion et Protection de la Nature</h3><h4>CFPPA du Gers, Mirande — 1 an</h4></div>
+  <div class="form-item"><h3>Formation bureautique et AVS</h3><h4>Centre de formation de l'État — 1 an</h4></div>
+  <div class="form-item"><h3>BTS Hôtellerie-Restauration</h3><h4>Lycée Lesdiguières, Grenoble — 1 an</h4></div>
+  <div class="form-item"><h3>CAP Cuisine</h3><h4>CFA La Rochelle, Île de Ré — 1 an</h4></div>
+  <div class="form-item"><h3>Baccalauréat scientifique SVT</h3><h4>Lycée Georges Sand, La Châtre</h4></div>
+  <div class="form-item"><h3>CNED</h3><h4>Centre National d'Étude à Distance — 1 an</h4></div>
+</div>
+
+<h2>Langues</h2>
+<div class="lang-bar">
+  <div><strong>Français</strong> <span>— Langue maternelle</span></div>
+  <div><strong>Anglais</strong> <span>— Professionnel</span></div>
+  <div><strong>Allemand</strong> <span>— Notions</span></div>
+</div>
+
+</body>
+</html>
