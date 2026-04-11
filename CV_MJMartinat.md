@@ -5,7 +5,7 @@
 ---
 
 📍 Les Combettes, 18370 Saint-Saturnin · 📞 06.44.83.83.17 · 📧 martinat.mj@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mariejeanne-martinat-b58577215) · 🌐 [Portfolio](https://mjmartinat-dev.github.io/Portefolio/)
+🔗 [LinkedIn](www.linkedin.com/in/marie-jeanne-martinat-b58577215) · 🌐 [Portfolio](https://mjmartinat-dev.github.io/Portefolio/)
 
 ---
 
