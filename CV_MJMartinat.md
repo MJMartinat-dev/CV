@@ -1,107 +1,136 @@
 # Marie-Jeanne Martinat
 
-**Ingénieure en Géomatique et Programmation — Innovation au service des territoires**
+**Ingénieure géomaticienne-programmeuse**  
+SIG · Données · Développement web
 
----
+Les Combettes, 18370 Saint-Saturnin (Cher)  
+06 44 83 83 17 · [martinat.mj@gmail.com](mailto:martinat.mj@gmail.com)  
+[L’Atelier des Repères sur LinkedIn](https://www.linkedin.com/company/latelier-des-reperes/) · [Portfolio](https://mjmartinat-dev.github.io/Portefolio/) · [GitHub](https://github.com/MJMartinat-dev)
 
-📍 Les Combettes, 18370 Saint-Saturnin · 📞 06.44.83.83.17 · 📧 martinat.mj@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/marie-jeanne-martinat-b58577215/) · 🌐 [Portfolio](https://mjmartinat-dev.github.io/Portefolio/)
+## Profil
 
----
+Géomaticienne et développeuse, j’ai passé trois ans à la DDT de la Drôme à concevoir des outils cartographiques et des applications de données pour les services de l’État. Depuis juin 2026, je travaille à mon compte dans le Cher. J’ai l’habitude de former des utilisateurs et d’expliquer les sujets techniques. Je recherche aussi des missions à distance et à temps partiel en développement SIG, traitement de données, tutorat ou mentorat.
+
+## Statut
+
+Travailleuse indépendante handicapée (TIH), avec reconnaissance de la qualité de travailleur handicapé (RQTH). Disponible en tant qu’indépendante, vacataire ou salariée à temps partiel.
 
 ## Compétences techniques
 
-### Géomatique & SIG
-Administration PostgreSQL/PostGIS, télédétection et traitement d'images satellite, cartes interactives et flux WMS/WFS, analyse spatiale, modélisation spatio-temporelle, formation utilisateurs.  
-`QGIS` `PostGIS` `GeoServer` `Leaflet` `FME` `ArcGIS`
+### Géomatique et SIG
 
-### Programmation & automatisation
-Applications web interactives (RShiny/Golem), pipelines de données, scripts d'automatisation, développement SQL avancé (PL/pgSQL), algorithmique et conception orientée objet.  
-`R/RShiny` `Python` `SQL` `HTML/CSS/JS` `Git` `VS Code` `Jupyter`
+Administration de bases PostgreSQL/PostGIS, analyse spatiale, télédétection et traitement d’images satellite. Cartes interactives, flux WMS/WFS, modélisation spatio-temporelle et formation des utilisateurs.
 
-### Analyse & data
-Analyse statistique (ANOVA, K-means), fouille de données, dataviz, webmapping, cartographies thématiques, photogrammétrie et modélisation 3D/MNT, DAO, retouche photo, impression grand format.  
-`Illustrator` `Photoshop` `SketchUp` `D3.js` `ggplot2`
+`QGIS` `ArcGIS` `FME` `PostgreSQL/PostGIS` `GeoServer` `Leaflet`
 
-### Gestion de projet
-Conception technique de A à Z, développement et déploiement, documentation open source, assurance qualité, veille technologique, conduite de projet, coordination COPIL avec DDTs.  
-`Teams` `Resana` `BNum` `Ariane` `GitLab CI`
+### Programmation et automatisation
 
----
+Applications sous R Shiny/Golem, chaînes de traitement de données, scripts d’automatisation et développement SQL/PL/pgSQL. Algorithmique et conception orientée objet.
 
-## Expertise transversale — Risques naturels
+`R` `Shiny` `Golem` `R Markdown` `Python` `SQL` `PL/pgSQL` `HTML/CSS` `JavaScript` `Git` `VS Code` `Jupyter`
 
-| Domaine | Détail |
-|---------|--------|
-| 🔥 **Feux de forêt** | OLD50m, Code forestier L134-9, débroussaillement, massifs sensibles, parcs éoliens |
-| 💧 **Sécheresse** | Hub'eau, piézométrie, hydrologie, seuils d'alerte, bulletins opérationnels |
-| 🌊 **Inondations & PPRN** | Priorisation de l'élaboration et révision des PPRN, cartographie d'aléas |
-| 🏔️ **Séismes** | ASTER'X, mouvements de terrain, référentiels Géorisques |
-| 🌪️ **Tornades & tempêtes** | Vulnérabilité territoriale, données multi-sources, événements extrêmes |
-| 🦁 **Biodiversité** | Suivi faune sauvage (Lynx, Tétras-lyre), atlas mellifères, espaces protégés |
+### Analyse, visualisation et graphisme
 
----
+Statistiques (ANOVA, k-means), fouille et visualisation de données, cartographie thématique, photogrammétrie, modèles numériques de terrain et modélisation 3D. DAO, retouche photo et impression grand format.
 
-## Compétences transversales (parcours atypique)
+`ggplot2` `D3.js` `Illustrator` `Photoshop` `SketchUp`
 
-| Source | Compétences |
-|--------|------------|
-| **Hôtellerie-Restauration** (7 ans) | Management d'équipe, gestion de comptes et budgets, rigueur sous pression, planification opérationnelle |
-| **Auxiliaire de vie scolaire** (3 ans) | Communication adaptée, vulgarisation de concepts complexes, pédagogie, travail en équipe pluridisciplinaire |
-| **Terrain environnemental** | Autonomie, rigueur scientifique, protocoles de suivi, rédaction de rapports, sens de l'observation |
+### Gestion de projet et transmission
 
----
+Conception technique, développement et déploiement. Documentation, assurance qualité, veille technique, formation des utilisateurs et coordination en comité de pilotage avec les DDT.
+
+`GitLab CI` `Teams` `Zoom` `Discord` `Resana` `BNum` `Ariane`
+
+## Domaines d’expérience
+
+| Domaine | Travaux réalisés |
+| --- | --- |
+| Feux de forêt | Co-conception d’OLD50m et création de cartOLD pour les obligations légales de débroussaillement. |
+| Sécheresse | BSécheresse : collecte de données hydriques, calculs de seuils d’alerte et production de bulletins. |
+| Risques naturels | Méthodologie de priorisation des PPRN et mise à jour des cartographies d’ASTER’X. |
+| Biodiversité | Suivi du Lynx et du Tétras-lyre, atlas de plantes mellifères et relevés naturalistes. |
 
 ## Expériences professionnelles
 
-### 2023 – 2025 · Ingénieure géomaticienne-programmeuse
-**DDT de la Drôme — SEFEN, Pôle Forêt — Valence (26)**  
-Co-création de OLD50m (PostgreSQL/PostGIS/Python), en transfert vers l'IGN pour déploiement national. Création de cartOLD (RShiny/Golem/Leaflet). Création du pipeline BSécheresse (R/Hub'eau). Documentation complète, formation utilisateurs, coordination technique.
+### Depuis juin 2026 · Fondatrice de L’Atelier des Repères
 
-### 2022 – 2023 · Alternante & vacataire en géomatique
-**DDT de la Drôme — Valence (26)**  
-Création d'un observatoire du territoire drômois sous RStudio Shiny. Analyse de données territoriales et tableaux de bord interactifs.
+**Micro-entreprise de géomatique, cartographie et développement web · Saint-Saturnin (18)**
 
-### 2021 – 2022 (~6 mois) · Stagiaire géomaticien risques naturels
-**DREAL Bourgogne-Franche-Comté — Besançon (25)**  
-Réalisation de la méthodologie de priorisation de l'élaboration et de la révision des PPRN. Mise à jour des cartographies ASTER'X (aléas sismiques, mouvements de terrain). Automatisation Model Builder. Coordination COPIL avec les DDTs.
+Cartographie, SIG et administration de bases de données pour les particuliers, les associations, les PME et les collectivités. Sites et applications web, assistance et sécurité informatique, dont tests d’intrusion, et formation des utilisateurs.
 
-### 2018 – 2019 · Stagiaire technicien environnemental
-**Fédération des Chasseurs de Haute-Savoie — Villy-le-Peloux (01)**  
-Suivi interdépartemental du Lynx par piégeage photographique (projet européen). Suivi du Tétras-lyre en domaine skiable. Cartographies de parcours et mises en défens.
+### 2023–2025 · Ingénieure géomaticienne-programmeuse
 
-### 2018 – 2019 · Stagiaire technicien environnemental
-**Mellisphera — Pau (64)**  
-Création de deux atlas (européen et américain) des plantes mellifères.
+**DDT de la Drôme · SEFEN, pôle Forêt · Valence (26)**
 
-### 2017 – 2018 · Chargée de terrain & animatrice
-**Grand Parc Miribel-Jonage (01) / IndreNature — Châteauroux (36)**  
-Inventaires naturalistes, animation nature, suivis de terrain.
+Co-conception d’OLD50m avec Frédéric Sarret : traitements des données relatives aux obligations légales de débroussaillement, sous PostgreSQL/PostGIS et Python. Le code est distribué sous licence GNU GPL v3. Développement de cartOLD sous R Shiny/Golem/Leaflet. Conception de la chaîne BSécheresse sous R et R Markdown, à partir du code de la DDT 38, puis adaptation aux besoins de la DDT de la Drôme. Documentation, formation des utilisateurs et coordination technique.
 
-### 2014 – 2017 · Auxiliaire de vie scolaire (AVS)
-**Collège Charles Sénard — Caluire-et-Cuire (69)**  
-Accompagnement d'enfants autistes en unité ULIS. Communication adaptée, vulgarisation, travail en équipe pluridisciplinaire.
+### 2022–2023 · Alternante puis vacataire en géomatique
 
-### 2006 – 2013 · Hôtellerie-Restauration (7 ans)
-D'apprentie à chef de cuisine. Management d'équipe, gestion de comptes et budgets, rigueur sous pression, planification.
+**DDT de la Drôme · Valence (26)**
 
----
+Création d’un observatoire du territoire drômois sous R Shiny. Analyse de données territoriales et tableaux de bord interactifs.
 
-## Formations
+### 2021–2022 · Stagiaire géomaticienne, risques naturels
 
-| Diplôme | Établissement |
-|---------|--------------|
-| **Master SIGMA — Géomatique** | Université Toulouse Jean Jaurès / INP-ENSAT — 2 ans |
-| | *SIG, télédétection, programmation Python, algorithmique, BDD spatiales, analyse spatiale, modélisation spatio-temporelle, webmapping, dataviz, fouille de données, ANOVA, K-means, FME, conduite de projet, drones & acquisition terrain* |
-| Licence Sciences de la Terre | Université Paul Sabatier III — 1 an |
-| BTS Gestion et Protection de la Nature | CFPPA du Gers, Mirande — 1 an |
-| Formation bureautique et AVS | Centre de formation de l'État — 1 an |
-| BTS Hôtellerie-Restauration | Lycée Lesdiguières, Grenoble — 1 an (via CNED) |
-| CAP Cuisine | CFA La Rochelle, Île de Ré — 1 an |
-| Baccalauréat scientifique SVT | Lycée Georges Sand, La Châtre |
+**DREAL Bourgogne-Franche-Comté · Besançon (25)**
 
----
+Méthodologie de priorisation pour l’élaboration et la révision des plans de prévention des risques naturels (PPRN). Mise à jour des cartographies d’ASTER’X, automatisation avec ModelBuilder et coordination en comité de pilotage avec les DDT.
+
+### 2018–2019 · Stagiaire technicienne environnement
+
+**Fédération des chasseurs de Haute-Savoie · Villy-le-Pelloux (74)**
+
+Suivi interdépartemental du Lynx par piégeage photographique, dans le cadre d’un projet européen. Suivi du Tétras-lyre en domaine skiable. Cartographie des parcours de suivi et des zones mises en défens.
+
+### 2018–2019 · Stagiaire technicienne environnement
+
+**Mellisphera · Pau (64)**
+
+Création des atlas européen et américain des plantes mellifères.
+
+### 2017–2018 · Stages en environnement
+
+**Grand Parc Miribel-Jonage · Indre Nature, Châteauroux (36)**
+
+Inventaires naturalistes et relevés de terrain. Animation nature auprès du public chez Indre Nature.
+
+### 2014–2017 · Auxiliaire de vie scolaire
+
+**Unité ULIS, collège Charles-Sénard · Caluire-et-Cuire (69)**
+
+Accompagnement d’élèves autistes. Communication adaptée et travail avec l’équipe pluridisciplinaire.
+
+### 2006–2013 · Hôtellerie-restauration
+
+D’apprentie à chef de cuisine. Management d’équipe, gestion de comptes et de budgets, planification et organisation du travail.
+
+## Formation
+
+| Année | Diplôme | Établissement |
+| --- | --- | --- |
+| 2023 | Master SIGMA, géomatique | Université Toulouse Jean-Jaurès / INP-ENSAT |
+| 2021 | Licence Sciences de la Terre | Université Paul-Sabatier, Toulouse III |
+| 2019 | BTS Gestion et protection de la nature | CFPPA du Gers, Mirande |
+| 2007 | CAP Cuisine | CFA La Rochelle |
+| 2005 | Baccalauréat scientifique, option SVT | Lycée George-Sand, La Châtre |
+
+Le master comprend notamment les SIG, la télédétection, Python, l’algorithmique, les bases de données spatiales, l’analyse spatiale, la modélisation spatio-temporelle, le webmapping, les statistiques et la conduite de projet.
+
+Autres formations : bureautique et AVS au Centre de formation de l’État ; une année de BTS hôtellerie-restauration au lycée Lesdiguières, Grenoble, via le CNED.
 
 ## Langues
 
-**Français** — Langue maternelle · **Anglais** — Professionnel · **Allemand** — Notions
+- Français : langue maternelle.
+- Anglais : professionnel.
+- Allemand : notions.
+
+## Missions recherchées
+
+- Développement SIG sous R, Python et SQL.
+- Traitement et visualisation de données.
+- Correction de copies, tutorat et mentorat.
+- Formation à distance.
+
+---
+
+@larpenteuse
